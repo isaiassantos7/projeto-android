@@ -301,8 +301,8 @@ h3 {
 article {
     background-color: var(--cor1);
     padding-top: 3px;
-
-    margin: 10px;
+    
+    margin: -7px;
     border-radius: 10px;
     box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.205);
 
@@ -318,6 +318,9 @@ ul {
     list-style-type: '\2714\00a0';
     list-style-position: inside;
     columns: 2;
+    
+    padding: 15px;
+    margin: -3px;
 
 }
 
